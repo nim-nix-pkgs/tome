@@ -11,6 +11,7 @@
   inputs.src-tome-main.ref   = "refs/heads/main";
   inputs.src-tome-main.owner = "dizzyliam";
   inputs.src-tome-main.repo  = "tome";
+  inputs.src-tome-main.dir   = "";
   inputs.src-tome-main.type  = "github";
   
   inputs."zip".owner = "nim-nix-pkgs";
